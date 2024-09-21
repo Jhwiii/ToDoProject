@@ -22,6 +22,7 @@ public class CenterPanelLeft extends JPanel {
     initComponents();
   }
 
+  
 
 private void initComponents(){
     this.add(Box.createRigidArea(new Dimension(0, 30)));

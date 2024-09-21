@@ -22,6 +22,7 @@ private void initComponents(){
     addSouthPanelLeft();
 }
 
+
 private void addNorthPanelLeft(){
    
     NorthPanelLeft northPanel = new NorthPanelLeft();

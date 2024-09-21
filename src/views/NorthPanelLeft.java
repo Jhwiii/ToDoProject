@@ -23,6 +23,7 @@ public class NorthPanelLeft extends JPanel {
     
    }
   
+   
   private void initComponents(){
   
    addBorder();

@@ -20,6 +20,7 @@ public class PrincipalFrame extends JFrame{
         
         
     }
+    
     public static PrincipalFrame getInstance(){
    
         if (instance == null){

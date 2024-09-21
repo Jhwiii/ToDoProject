@@ -24,6 +24,7 @@ public class SouthPanelLeft extends JPanel{
     
 
 }
+
 private void initComponents(){
   
    addBorder();
